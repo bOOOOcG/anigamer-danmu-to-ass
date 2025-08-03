@@ -1,6 +1,7 @@
-# 動畫瘋彈幕轉PotPlayer工具
+# 動畫瘋彈幕轉ASS工具
 
 將動畫瘋（Gamer.com.tw）的彈幕數據轉換為PotPlayer支援的ASS字幕格式。
+這樣你就可以在使用第三方播放器(如potplayer)播放劇集時使用動畫瘋的彈幕了。
 
 ## 功能特點
 
