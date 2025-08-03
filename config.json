@@ -1,0 +1,39 @@
+{
+    "default_settings": {
+        "geo": "TW,HK",
+        "time_offset": 0,
+        "scroll_duration": 12,
+        "fixed_duration": 8,
+        "font_size": 42,
+        "font_name": "Noto Sans CJK TC",
+        "resolution": "1920x1080",
+        "opacity": 0.8,
+        "enable_scroll": true,
+        "enable_top": true,
+        "enable_bottom": true,
+        "filter_keywords": [],
+        "filter_emoji": false
+    },
+    "presets": {
+        "720p": {
+            "font_size": 28,
+            "resolution": "1280x720"
+        },
+        "1080p": {
+            "font_size": 42,
+            "resolution": "1920x1080"
+        },
+        "2k": {
+            "font_size": 56,
+            "resolution": "2560x1440"
+        },
+        "4k": {
+            "font_size": 84,
+            "resolution": "3840x2160"
+        },
+        "8k": {
+            "font_size": 168,
+            "resolution": "7680x4320"
+        }
+    }
+}

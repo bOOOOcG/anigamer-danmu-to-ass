@@ -1,0 +1,45 @@
+# 彈幕輸出檔案
+*.ass
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# 測試檔案
+test_*.ass
+debug_*.ass
+*_test.ass
+*_debug.ass
+
+# 臨時檔案
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# 日誌檔案
+*.log
